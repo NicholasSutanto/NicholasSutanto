@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NicholasSutanto
 
-- I'm a recent Bachelor of Science in Information systems graduate interested in gaming, computer hardware, data analytics, databases, and business analysis.
+- I'm a recent Master of Science in Data Analytics for Business graduate interested in gaming, computer hardware, data analytics, databases, and business analysis.
 
 - How to reach me: sutanton@spu.edu 
 
